@@ -32,5 +32,5 @@
     echo "<h2> My name is: " .$name. "</h2>";
     echo "<h2> My age is: " .$age. "</h2>";
      ?>
-     <a href= "https://www.heroku.com" class= "btn btn-danger"> heroku.com </a>
+     <a href= "https://www.heroku.com " target="_blank" class= "btn btn-danger"> heroku.com </a>
   <?php require 'includes/footer.php' ?>
